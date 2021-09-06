@@ -26,7 +26,7 @@
 
 * **Bash** ou **PowerShell**
 
-* se a conta por recem criada, podera utilizar a versão gratuita concedida, caso contrario, pagara pelo uso do storage criado para armazenar seus recursos
+* Se a conta for recém criada, poderá utilizar a versão gratuita concedida, caso contrario, pagara pelo uso do storage criado para armazenar seus recursos
  
 * Azure CLI (command-line interface): Azure traz em suas ferramentas uma interface para linha de comandos propria para criar e gerenciar recursos do azure, e pode ser chamada pelo comando '**_az_**'
 >User@Azure:~$ az
