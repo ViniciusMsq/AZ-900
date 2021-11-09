@@ -4,7 +4,7 @@
 
 ### Databases
 
-* Cosmos DB: totalmente gerenciado NoSQL, tempo de resposta em ms, PaaS, acesso em tempo real, consistente, multi-regiao
+* Cosmos DB: totalmente gerenciado NoSQL, tempo de resposta em ms, PaaS, acesso em tempo real, consistente, multi-regiao, podemos trabalhar com varias Api, por exemplo: chave-valor, familia de colunas, documento, grafo, cada um é utilizado por uma tecnologia
 
 * Azure SQL: Familia de produtos sql, Azure SQL Database gerenciado pela azure, Managed Instance, roda dentro de uma instancia genrenciada pela azure, SQL Server na VM onde nos gerenciamos
 
