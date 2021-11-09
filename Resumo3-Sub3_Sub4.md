@@ -10,6 +10,9 @@
 
 * MySQL: sql da comunidade
 
-* PostgreSQL: modelos de deploy, sevidor unico, flexivel e hiper escala
+* PostgreSQL: modelos de deploy do postgree, 
+sevidor unico: transações tradicionais, 
+flexivel: maximo controle, personalização avançada e otimização de custos, 
+hiper escala: melhor para necessidade de desempenho ultra alto e dados além dos 100gb
 
-* Database Migration Services: assistente que ajuda a fazer a migração do on premises para cloud
+* Database Migration Services: assistente que ajuda a fazer a migração de multiplos databases do on promisse para cloud, com o minimo de downtime possivel, para isso é usado a ferramenta DMA que faz a analisa de schemas, dados, para integridade da migração
